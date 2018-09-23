@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+          [
+            "SSS",
+            "SDS",
+            "SSS"
+          ],
+  "key":
+  {
+    "D":
+    {
+      "item": "dostones:dostone",
+      "data": 0
+    },
+    "S":
+    {
+      "item": "minecraft:sapling",
+      "data": 0
+    }
+  },
+
+  "result":
+  {
+    "item": "dostones:growstone",
+    "data" : 0,
+    "count": 1
+  }
+}

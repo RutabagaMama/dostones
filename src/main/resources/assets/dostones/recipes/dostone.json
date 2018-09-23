@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+          [
+            "SSS",
+            "SRS",
+            "SSS"
+          ],
+  "key":
+  {
+    "R":
+    {
+      "item": "minecraft:redstone",
+      "data": 0
+    },
+    "S":
+    {
+      "item": "minecraft:stone",
+      "data": 0
+    }
+  },
+
+  "result":
+  {
+    "item": "dostones:dostone",
+    "data" : 0,
+    "count": 1
+  }
+}

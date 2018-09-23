@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+          [
+            "OOO",
+            "ODO",
+            "OOO"
+          ],
+  "key":
+  {
+    "D":
+    {
+      "item": "dostones:dostone",
+      "data": 0
+    },
+    "O":
+    {
+      "item": "minecraft:obsidian",
+      "data": 0
+    }
+  },
+
+  "result":
+  {
+    "item": "dostones:portalstone",
+    "data" : 0,
+    "count": 1
+  }
+}

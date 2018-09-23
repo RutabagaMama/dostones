@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dostones",
+  "name": "Do Stones",
+  "description": "Adds stones that do things.",
+  "version": "1.0",
+  "mcversion": "1.12.3",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["RutabagaMama", "HeightTaker17"],
+  "credits": "",
+  "logoFile": "/resources/assets/dostones/textures/items/dostone.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients":
+          [
+            {
+              "item": "dostones:dostone"
+            },
+            {
+              "item": "minecraft:bed",
+              "data": 0
+            }
+          ],
+  "result":{
+    "item": "dostones:homestone",
+    "count": 1
+  }
+}
